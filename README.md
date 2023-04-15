@@ -14,7 +14,7 @@ Dubtes:
 	2. Per clients que tinguin un WMS i aquest software proporcioni unes operacions més robustes que les seves. Idea: Onion pot fer-ho servir.
 2. Li facilitaria la vida o no?
 	1. Les operacions de recuperar les dades de la BD i guardar-les a la BD, igualment, les hauria de fer l'aplicació client.
-3. El que es cobraria seria prou competitiu com per ser atractiu pels clients? Quin seria el nostre cost [Càlcul de preus de Google](https://cloud.google.com/products/calculator#id=0a176048-15d1-4c73-9c9c-8f37ab2ce266)?
+3. El que es cobraria seria prou competitiu com per ser atractiu pels clients? Quin seria el nostre cost [Càlcul de preus de Google](https://cloud.google.com/products/calculator)?
 
 Com podem resoldre aquests dubtes?
 1. Estudiar quines necessitats té un WMS i quin tipus de clients podria necessitar un software així.
